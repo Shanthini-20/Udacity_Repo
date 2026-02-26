@@ -8,3 +8,6 @@ git push
 git commit
 git pull
 git pull_request
+
+
+All these are to be done.
